@@ -8,7 +8,7 @@ I have recreated tetris using the pygame python module. The aim of the game is t
 
 Firstly you need to clone this git repo, in the terminal, write:
 ```
-$ https://github.com/EndoEU/pygame-Tetris.git
+$ git clone https://github.com/EndoEU/pygame-Tetris.git
 ```
 Then install pygame python module:
 ```
